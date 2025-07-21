@@ -30,7 +30,7 @@ This project is built to attract logistics companies by showcasing how ML can dr
 
 <pre><code>## 📁 Project Structure
 
-logistics-delay-api/
+logitrack-backend/
 ├── app/
 │   ├── main.py         # FastAPI app with all routes
 │   ├── model.py        # Model loading & prediction logic
@@ -77,7 +77,7 @@ Made with ❤️ by [Chirag](https://github.com/chiragRane-Projects)
 </code></pre>
 
 <pre><code>##💻 Run in your machine
-git clone https://github.com/chiragRane-Projects/logitrack-ai-backend.git
+git clone https://github.com/chiragRane-Projects/logitrack-backend.git
 pip install -r requirements.txt
 uvicorn app.main:app --reload
 </code></pre>
