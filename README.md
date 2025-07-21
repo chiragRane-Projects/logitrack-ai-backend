@@ -41,3 +41,27 @@ logistics-delay-api/
 ├── encoders.pkl        # LabelEncoders for input/output values
 └── README.md           # You're reading it
 </code></pre>
+
+<pre><code>## 🔗 API Endpoints
+
+📍 GET /
+  └── Description : Health check route
+  └── Response :
+        {
+          "message": "Logistics Delay Prediction API is live 🔥"
+        }
+
+📍 POST /predict-delay
+  └── Description : Predict if a delivery will be delayed
+  └── Request Body :
+        {
+          "DistanceKM": 45.0,
+          "Weather": "Rainy",
+          "TimeOfDay": "Evening"
+        }
+
+  └── Response :
+        {
+          "delay_prediction": "Delayed"
+        }
+</code></pre>
