@@ -1,0 +1,19 @@
+[
+    { "DistanceKM": 5, "Weather": "Clear", "TimeOfDay": "Morning", "Delayed": "No" },
+    { "DistanceKM": 15, "Weather": "Rainy", "TimeOfDay": "Night", "Delayed": "Yes" },
+    { "DistanceKM": 8, "Weather": "Clear", "TimeOfDay": "Afternoon", "Delayed": "No" },
+    { "DistanceKM": 30, "Weather": "Stormy", "TimeOfDay": "Night", "Delayed": "Yes" },
+    { "DistanceKM": 22, "Weather": "Rainy", "TimeOfDay": "Evening", "Delayed": "Yes" },
+    { "DistanceKM": 3, "Weather": "Clear", "TimeOfDay": "Morning", "Delayed": "No" },
+    { "DistanceKM": 18, "Weather": "Clear", "TimeOfDay": "Night", "Delayed": "Yes" },
+    { "DistanceKM": 12, "Weather": "Cloudy", "TimeOfDay": "Afternoon", "Delayed": "No" },
+    { "DistanceKM": 25, "Weather": "Rainy", "TimeOfDay": "Night", "Delayed": "Yes" },
+    { "DistanceKM": 10, "Weather": "Clear", "TimeOfDay": "Evening", "Delayed": "No" },
+    { "DistanceKM": 35, "Weather": "Stormy", "TimeOfDay": "Night", "Delayed": "Yes" },
+    { "DistanceKM": 6, "Weather": "Clear", "TimeOfDay": "Morning", "Delayed": "No" },
+    { "DistanceKM": 27, "Weather": "Cloudy", "TimeOfDay": "Afternoon", "Delayed": "Yes" },
+    { "DistanceKM": 19, "Weather": "Rainy", "TimeOfDay": "Evening", "Delayed": "Yes" },
+    { "DistanceKM": 4, "Weather": "Clear", "TimeOfDay": "Morning", "Delayed": "No" },
+    { "DistanceKM": 20, "Weather": "Cloudy", "TimeOfDay": "Night", "Delayed": "Yes" }
+  ]
+  
