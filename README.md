@@ -1,4 +1,4 @@
-# 🚚 Logistics Delay Prediction API
+# 🚚 Logistics Backend APIs
 
 A production-grade FastAPI microservice that predicts whether a delivery will be delayed or not, based on delivery distance, weather condition, and time of day.  
 This project is built to attract logistics companies by showcasing how ML can drive smarter delivery decisions.
