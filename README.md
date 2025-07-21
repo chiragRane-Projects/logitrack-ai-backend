@@ -65,3 +65,13 @@ logistics-delay-api/
           "delay_prediction": "Delayed"
         }
 </code></pre>
+
+<pre><code>## 👨‍💻 Author
+
+Made with ❤️ by [Chirag](https://github.com/your-github-username)
+
+- 🚀 BCA Student | Aspiring Data Scientist
+- 🛠️ Passionate about building real-world ML + Fullstack projects
+- 🧠 Believer in project-based learning & practical problem solving
+- 📫 Reach me at: beingchirag6@gmail.com
+</code></pre>
