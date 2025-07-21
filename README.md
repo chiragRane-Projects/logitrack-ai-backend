@@ -11,7 +11,7 @@ This project is built to attract logistics companies by showcasing how ML can dr
 ![for-the-badge](https://img.shields.io/badge/MODEL-DecisionTree-yellow?style=for-the-badge)
 ![for-the-badge](https://img.shields.io/badge/SERIALIZATION-Joblib-orange?style=for-the-badge)
 ![for-the-badge](https://img.shields.io/badge/DEPLOYMENT-Render-purple?style=for-the-badge)
-![for-the-badge](https://img.shields.io/badge/ML-Pandas%20%7C%20Sklearn%20%7C%20Numpy-green?style=for-the-badge)
+![for-the-badge](https://img.shields.io/badge/ML-Pandas%20%7C%20Sklearn%20%7C%-green?style=for-the-badge)
 
 ---
 
