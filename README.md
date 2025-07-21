@@ -75,3 +75,9 @@ Made with ❤️ by [Chirag](https://github.com/chiragRane-Projects)
 - 🧠 Believer in project-based learning & practical problem solving
 - 📫 Reach me at: beingchirag6@gmail.com
 </code></pre>
+
+<pre><code>##💻 Run in your machine
+git clone https://github.com/chiragRane-Projects/logitrack-ai-backend.git
+pip install -r requirements.txt
+uvicorn app.main:app --reload
+</code></pre>
