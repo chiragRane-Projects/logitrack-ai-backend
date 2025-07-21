@@ -28,14 +28,4 @@ This project is built to attract logistics companies by showcasing how ML can dr
 
 ---
 
-## 📁 Project Structure
-logistics-delay-api/
-├── app/
-│   ├── main.py          # FastAPI app with all routes
-│   ├── model.py         # Model loading & prediction logic
-│   ├── schema.py        # Pydantic models for request/response
-│   └── utils.py         # (Optional) helper functions
-├── delivery_data.json   # Mock dataset used for training
-├── model.pkl            # Trained Decision Tree Classifier
-├── encoders.pkl         # LabelEncoders for input/output values
-├── README.md            # You're reading it
+<pre><code>## 📁 Project Structure logistics-delay-api/ ├── app/ │ ├── main.py # FastAPI app with all routes │ ├── model.py # Model loading & prediction logic │ ├── schema.py # Pydantic models for request/response │ └── utils.py # (Optional) helper functions ├── delivery_data.json # Mock dataset used for training ├── model.pkl # Trained Decision Tree Classifier ├── encoders.pkl # LabelEncoders for input/output values └── README.md # You're reading it </code></pre>
