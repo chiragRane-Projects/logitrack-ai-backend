@@ -68,7 +68,7 @@ logistics-delay-api/
 
 <pre><code>## 👨‍💻 Author
 
-Made with ❤️ by [Chirag](https://github.com/your-github-username)
+Made with ❤️ by [Chirag](https://github.com/chiragRane-Projects)
 
 - 🚀 BCA Student | Aspiring Data Scientist
 - 🛠️ Passionate about building real-world ML + Fullstack projects
